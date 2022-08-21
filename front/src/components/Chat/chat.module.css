@@ -1,0 +1,19 @@
+.chat {
+    width: 500px;
+    border: 1p solid;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.yourMessage {
+    padding: 10px 15px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.userMessage {
+    padding: 10px 15px;
+    background-color: gray;
+    border-radius: 5px;
+}
